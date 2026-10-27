@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+/tests/.work/
+/test-images/
+/Gallery.*.exe
+/Gallery.*.map.json
+/binary-map.json
+/settings.json
+/settings.json.tmp
+/presets.json
+*.kpt-*.tmp

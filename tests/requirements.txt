@@ -1,0 +1,2 @@
+# Development fixtures only; Gallery.exe has no Python dependencies.
+Pillow>=10.0
